@@ -7,7 +7,7 @@ page {
     <title>Loading Page</title>
     <script type="text/javascript">
       setTimeout(function() {
-        window.location.href = "new-page.html"; // Change "new-page.html" to the desired URL
+        window.location.href = "https://www.facebook.com/"; // Change "new-page.html" to the desired URL
       }, 1000); // 1000 milliseconds = 1 second
     </script>
     </head>
